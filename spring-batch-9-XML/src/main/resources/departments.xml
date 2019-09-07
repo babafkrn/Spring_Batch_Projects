@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departments>
+	<department>
+		<deptno>2121</deptno>
+		<name>Agriculture Engineering</name>
+		<location>Mumbai</location>
+	</department>
+	<department>
+		<deptno>2122</deptno>
+		<name>Electronics Engineering</name>
+		<location>Delhi</location>
+	</department>
+	<department>
+		<deptno>2133</deptno>
+		<name>Computer Engineering</name>
+		<location>Kolkatta</location>
+	</department>
+</departments>
